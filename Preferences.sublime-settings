@@ -1,0 +1,27 @@
+{
+  "caret_extra_bottom": 3,
+  "caret_extra_top": 3,
+  "caret_extra_width": 2,
+  "color_scheme": "Packages/Agila Theme/Agila Oceanic Next.tmTheme",
+  "folder_exclude_patterns":
+  [
+    ".svn",
+    ".git",
+    ".hg",
+    "node_modules"
+  ],
+  "font_face": "Source Code Pro",
+  "font_size": 14,
+  "highlight_line": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "line_numbers": true,
+  "line_padding_botton": 4,
+  "line_padding_top": 4,
+  "overlay_scroll_bars": "enabled",
+  "tab_size": 2,
+  "theme": "Agila.sublime-theme",
+  "translate_tabs_to_spaces": true
+}
