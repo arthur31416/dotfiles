@@ -1,4 +1,16 @@
 {
+  "always_show_minimap_viewport": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": ".",
+			"selector": "source.js"
+		}
+	],
   "caret_extra_bottom": 3,
   "caret_extra_top": 3,
   "caret_extra_width": 2,
