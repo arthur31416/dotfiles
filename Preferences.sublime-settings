@@ -21,7 +21,9 @@
     ".svn",
     ".git",
     ".hg",
-    "node_modules"
+    "node_modules",
+    "ios/build",
+    "android/build"
   ],
   "font_face": "Source Code Pro",
   "font_size": 14,
