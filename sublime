@@ -1,0 +1,58 @@
+{
+	"auto_format_on_save_excludes":
+	[
+		"*/node_modules/*",
+		"build"
+	],
+	"close_sidebar_if_opened": false,
+	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		"dist",
+		"dist_*",
+		"build",
+		"package-lock.json",
+		"coverage",
+		".git",
+		"flow-typed",
+		"yarn-error.log",
+		"yarn.lock",
+		"joinup-dashboard/lib/js/",
+		"**/*.cmt",
+		"**/*.mlast",
+		"public",
+		".cache",
+		"ios/Index"
+	],
+	"font_face": "Operator Mono Regular",
+	"font_size": 10,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+	],
+	"index_exclude_patterns":
+	[
+		"node_modules",
+		"dist",
+		"dist_*",
+		"build",
+		"package-lock.json",
+		"coverage",
+		".git",
+		"flow-typed",
+		"yarn-error.log",
+		"yarn.lock",
+		"**/*.cmt",
+		"**/*.mlast",
+		"public",
+		".cache",
+		"ios/Index"
+	],
+	"line_padding_top": 3,
+	"original_color_scheme": "Packages/Agila Theme/Agila Origin Oceanic Next.tmTheme",
+	"remember_open_files": false,
+	"tab_size": 2,
+	"theme": "Oceanic Next.sublime-theme",
+	"vintage_start_in_command_mode": true
+}
